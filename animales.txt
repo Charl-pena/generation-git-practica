@@ -2,3 +2,4 @@ conejos
 ratones
 mosquitos
 ballenas
+eliminaron la misantropia (editado desde github)
